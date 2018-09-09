@@ -11,5 +11,8 @@
 
     <artifactId>taotao-manager-pojo</artifactId>
 
+    <dependencies>
+
+    </dependencies>
 
 </project>
